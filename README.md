@@ -1,2 +1,2 @@
 # NumPy_Essentials_and_Beyond
-NumPy_Essentials_and_Beyond
+A comprehensive tutorial that will quickly get you started with the NumPy library, covering topics from building and manipulating nd arrays to computing pseudo-inverse matrices. Explore basic descriptive statistics, work with built-in functions, create custom ufuncs, master ‘Broadcasting,’ and understand the concepts of memory layout and vectorization, along with the performance benefits they offer. This guide is designed to take you from NumPy essentials to beyond.
